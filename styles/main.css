@@ -765,6 +765,7 @@ img{
 }
 
 @media screen and (max-width: 650px){
+    .monoblok-usb-info,
     .section-9 .monoblok-usb-info,
     .section-13 .monoblok-usb-info,
     .section-15 .monoblok-usb-info,
@@ -780,6 +781,7 @@ img{
     }
 }
 @media screen and (max-width: 430px){
+    .monoblok-usb-info,
     .section-7 .monoblok-usb-info,
     .section-9 .monoblok-usb-info,
     .section-13 .monoblok-usb-info,
@@ -794,6 +796,7 @@ img{
     }
 }
 @media screen and (max-width: 390px){
+    .monoblok-usb-info,
     .section-13 .monoblok-usb-info,
     .section-15 .monoblok-usb-info,
     .section-19 .monoblok-usb-info,
