@@ -722,7 +722,7 @@ img{
 }
 @media screen and (orientation: landscape) and (max-height: 475px){
     .section-13 .monoblok-back{
-        width: 30%;
+        width: 17%;
         left: 29.5%;
     }
     .section-13 .monoblok-usb-info{
@@ -731,11 +731,11 @@ img{
     .section-3 .monoblok-back{
         width: 44%;
     }
-    .section-7 .monoblok-back{
-        width: 40%;
+    .section-7 .monoblok-back img{
+        width: 25%;
     }
     .section-9 .monoblok-back{
-        width: 30%;
+        width: 25%;
     }
     .section-5 .monoblok-front{
         width: 70% !important;
@@ -745,6 +745,12 @@ img{
     }
     .section-11 .monoblok-back img{
         width: 21%;
+    }
+    .section-15 .monoblok-back img{
+        width: 26%;
+    }
+    .section-17 .monoblok-back img{
+        width: 26%;
     }
     .section-11 .monoblok-usb-info{
         bottom: 5% !important;
@@ -812,5 +818,8 @@ img{
 @media screen and (orientation: landscape){
     .section-13 .monoblok-usb-info{
         display: none;
+    }
+    .monoblok-usb-info{
+        bottom: 6% !important;
     }
 }
