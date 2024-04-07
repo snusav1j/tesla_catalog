@@ -252,6 +252,7 @@ img{
         align-items: start;
         width: 90% !important;
         margin: 0 auto;
+        
     }
     .mb-header{
         padding: 5%;
@@ -335,10 +336,6 @@ img{
         font-size: 2.5vw;
     }
 }
-.monoblok-device-info{
-    margin-top: 3%;
-    overflow: hidden;
-}
 @media screen and (max-width: 360px){
     .monoblok-colors .black{
         width: 20px;
@@ -419,6 +416,10 @@ img{
 .grid-elem-3-title {
     grid-area: 3 / 1 / 4 / 3; 
     padding-bottom: 1%;
+}
+.monoblok-device-info{
+    margin-top: 3%;
+    overflow: hidden;
 }
 .monoblok-device-info > .grid-elem-5,
 .monoblok-device-info > .grid-elem-6{
