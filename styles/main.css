@@ -825,3 +825,9 @@ img{
         bottom: 6% !important;
     }
 }
+
+@media screen and (min-width: 992px){
+    .monoblok-device-info{
+        line-height: 1.18;
+    }
+}
