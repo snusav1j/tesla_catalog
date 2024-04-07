@@ -335,6 +335,10 @@ img{
         font-size: 2.5vw;
     }
 }
+.monoblok-device-info{
+    margin-top: 20px;
+    overflow: hidden;
+}
 @media screen and (max-width: 360px){
     .monoblok-colors .black{
         width: 20px;
